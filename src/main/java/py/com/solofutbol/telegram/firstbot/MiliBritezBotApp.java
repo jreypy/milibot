@@ -8,7 +8,7 @@ import org.telegram.telegrambots.ApiContextInitializer;
 
 @SpringBootApplication
 public class MiliBritezBotApp implements CommandLineRunner {
-    public static final String HTTP_TOKEN = "866652928:AAH4H1jZk4TjcQ3-QwszNA0UFzdSepWraO4";
+
 
     public static void main(String[] args) {
         //Add this line to initialize bots context
